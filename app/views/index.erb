@@ -1,0 +1,55 @@
+<div class="page">
+    <!-- <div class="content_index"> -->
+
+<!-- email, password, signup forms -->
+<div class="index_background">
+ <div class="login">
+    <ul class="home_ul">
+      <li class="nav_button"><a href="/">Home</a></li>
+    </ul>
+  <ul class="logout">
+
+      <% if current_user %>
+        <li class="logout">
+          <form id="sign-out" action="/logout" method="post">
+            <input name="_method" type="hidden" value="delete" />
+            <input type="submit" class="nav_button" value="Sign Out">
+          </form>
+        </li>
+      <% else %>
+        <li class="nav_button"><a href="/login">Sign In</a></li>
+        <li class="nav_button"><a href="/register">Sign Up</a></li>
+
+      <% end %>
+    </ul>
+  </div>
+<%if session_logged_in?%>
+    <ul class="years-90s">
+      <li class="years"><a href='/movies/1996'>1996</a><br>High score: 0</li>
+      <li class="years"><a href='/movies/1997'>1997</a><br>High score: 0</li>
+      <li class="years"><a href='/movies/1998'>1998</a><br>High score: 0</li>
+      <li class="years"><a href='/movies/1999'>1999</a><br>High score: 0</li>
+      <li class="years"><a href='#'>2000</a><br>High score: 0</li>
+    </ul>
+   <div class="welcome">
+    <h1>Your time to shine, <%=@user.username%>!</h1>
+     <h2>If you are what you say you are, a superstar... <br>Then have no fear, the crowd is here<br>And the lights are on!</h2>
+    </div>
+    <ul class="years-2000s">
+        <li class="years"><a href='#'>2001</a><br>High score: 0</li>
+        <li class="years"><a href='#'>2002</a><br>High score: 0</li>
+        <li class="years"><a href='#'>2003</a><br>High score: 0</li>
+        <li class="years"><a href='#'>2004</a><br>High score: 0</li>
+        <li class="years"><a href='#'>2005</a><br>High score: 0</li>
+      </ul>
+    <!-- </div> -->
+</div>
+<%else%>
+  <div class="login_landing">
+    <h1>Welcome to Timeless Film!</h1>
+    <p>Cameras ready, prepare to flash...</p>
+  </div>
+  <% end %>
+</div>
+</div>
+

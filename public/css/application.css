@@ -1,0 +1,278 @@
+/* HEADER */
+
+nav{
+  display:block;
+  width:60%;
+  height:40px;
+  border:1px solid #d0d0d0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  border-radius: 5px;
+/*  background-image: url('http://thumbs.dreamstime.com/z/tribal-vintage-ethnic-pattern-seamless-illustration-your-business-34351188.jpg');*/
+}
+
+
+
+h3, h2, h1, p, li {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+  color: #468492;
+}
+
+ul.logout {
+  float: right;
+  display: inline-block;
+  margin-top: 25px;
+  margin-right:25px;
+}
+
+ul.home_ul, li.nav_button {
+  display:inline-block;
+  margin-top: 30px;
+}
+
+ul.login {
+  float: right;
+  display: inline-block;
+  margin-top: 25px;
+  margin-right:25px;
+}
+
+
+
+/* Buttons */
+li.nav_button a, input.submit, input.nav_button, li.years a, input.submit_answers {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+li.nav_button, input.submit, input.nav_button, li.years, input.submit_answers {
+  font-weight: bold;
+  background-color: #76B8A6;
+  border-radius: 5px;
+  border: 1px solid #E6E3B2;  /*display:inline-block;*/
+
+  list-style-type: none !important;
+  margin-top: -18px;
+  margin-bottom: 21px;
+  padding: 2px 8px 2px 6px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  text-rendering: auto;
+  text-shadow: rgb(76, 144, 33) 0px -1px 0px;
+  width: 90px;
+}
+
+li.logout {
+  list-style-type: none;
+}
+
+input.submit_answers {
+  margin-left: 40%;
+}
+
+
+li.years a {
+  font-size: 24px;
+}
+
+
+
+ul.years-2000s, ul.years-90s {
+  padding-top: 5%;
+  display: inline-block;
+  /*margin-left: -9%;*/
+}
+
+li.years {
+  display: inline-block;
+  margin-left: 60px;
+  }
+/* Content */
+
+.content {
+  text-align: center;
+}
+
+/* Register */
+input.text {
+margin-bottom: 6px;
+}
+
+div.container {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 400px;
+  background-color: lightgrey;
+  display: none;
+}
+
+.game_page {
+  background-image: url('/images/Set-of-Grunge-Vintage-Film-Strips.jpg')
+}
+
+.page, .game_page {
+  display:block;
+  width:90%;
+  border:1px solid #d0d0d0;
+  border-radius: 5px;
+}
+
+.index_background {
+    border-radius: 5px;
+
+  background-image: url('/images/cine.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+ /*background: rgba(204, 204, 204, 0.5);*/
+}
+
+/*  answers correct */
+
+
+/* ACCORDIAN */
+.guess_accordion_after,  .answer_accordion {
+  display: inline-block;
+  background-color: #d0d0d0;
+  border:1px solid #CAA91E;
+  border-radius: 5px;
+  width: 47%;
+}
+
+.guess_accordion_before
+{
+  background-color: #d0d0d0;
+  border:1px solid #CAA91E;
+  border-radius: 5px;
+  display: inline-block;
+  width: 80%;
+  position: relative;
+  margin-left: 10%;
+  margin-right: auto;
+}
+
+.answers_correct_text
+{
+  text-align: center;
+  border: 1px solid;
+  border:1px solid #CAA91E;
+  border-radius: 5px;
+  width: 58%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  display: none;
+  background-color: #d0d0d0;
+}
+
+.answer_accordion {
+  float: right;
+  display: none;
+}
+
+.guess_dtion, .answer_accordion_section
+ {
+  border:3px solid #CAA91E;
+  margin: 15px;
+  padding: 2px 5px 2px 5px;
+  border-radius: 5px;
+  background-color: #E6E3B2;
+}
+.content{
+  background-color: #d0d0d0;
+  border:3px solid #CAA91E;
+  border-radius: 5px;
+  margin: 15px;
+  padding: 2px 5px 2px 5px;
+}
+
+.answer_accordion_section a {
+  color: #468492;
+}
+
+
+
+#sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+
+
+
+.welcome h1 {
+  color: red;
+  text-align: center;
+  font-size: 42px;
+  color: ##464742;
+  font-weight: bold;
+}
+
+  h2 {
+  padding-right: 10px;
+  padding-left: 10px;
+  color: honeydew;
+  font-style: italic;
+  font-size: 19px;
+  }
+
+    h3 {
+      text-align: center;
+      /*border-bottom: 2px dotted #d0d0d0;*/
+    }
+
+    h3 a {
+      color: #468492;
+      font-weight: bolder;
+      text-decoration: none;
+     }
+
+    .movie_details_list {
+      border-top: 2px dotted black;
+    }
+
+      .box_office_total {
+        text-align: center;
+        font-size: 14px;
+        color: #464742;
+      }
+
+      .box_office_ranking_index {
+        color: #464742;
+      }
+
+        ul.imdb_info_after {
+          margin-left: -10% !important;
+          font-size: 12px !important;
+          padding-right: 5px;
+        }
+
+        ul.imdb_info_before {
+          font-size: 14px;
+          margin-left: -5%;
+          list-style-type: none;
+          text-align: center;
+        }
+
+
+        li.movie_details {
+          padding-top: 4px;
+        }
+
+        li.movie_details p {
+          color: #76B8A6;
+        }
+
+
+
+/* FOOTER */
+p.thankyou {
+display: block;
+width: 60%;
+text-align: center;
+width: auto;
+font-size: 10px;
+}

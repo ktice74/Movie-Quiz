@@ -1,0 +1,66 @@
+<script>
+// var imdb_info = <%= @imdb_fields[0] %>
+
+</script>
+
+<div class="game_page">
+<ul class="home_ul">      <li class="nav_button"><a href="/">Home</a></li></ul>
+    <ul class="logout">
+
+      <% if current_user %>
+        <li class="logout">
+          <form id="sign-out" action="/logout" method="post">
+            <input name="_method" type="hidden" value="delete" />
+            <input type="submit" class="nav_button" value="Sign Out">
+          </form>
+        </li>
+      <% else %>
+        <li class="nav_button"><a href="/login">Sign In</a></li>
+        <li class="nav_button"><a href="/register">Sign Up</a></li>
+
+      <% end %>
+    </ul>
+  <div class="content">
+    <h1><%=@year%>, What a great year for cinema... Take a look at these classics...</h1><p>Can you guess the highest rated IMDb films based on their box office success?</p>
+  </div>
+  <div class="answers_correct_text">
+    <p></p>
+  </div>
+    <div class="guess_accordion_before">
+      <%@index=0%>
+      <%@movies.each do |movie|%>
+      <div class="guess_accordion_section" data-id="<%=movie.box_office_ranking%>">
+        <h3><span class="box_office_ranking_index"><%=movie.box_office_ranking%></span>. <a href='#accordion'><%=movie.title%></a><br/><span class="box_office_total">(<%=movie.box_office_total%>)</span></h3>
+          <div class="movie_details_list">
+            <ul class="imdb_info_before">
+              <li class="movie_details"><b>Date Released:</b> <%=@imdb_fields[@index]["Released"][0..5]%></li>
+              <li class="movie_details"><b>Genre:</b> <%=@imdb_fields[@index]["Genre"][0..5]%></li>
+              <li class="movie_details"><b>Director:</b> <%=@imdb_fields[@index]["Director"]%></li>
+              <li class="movie_details"><b>Actors/Actresses:</b> <%=@imdb_fields[@index]["Actors"]%></li>
+              <li class="movie_details"><b>Plot:</b> <%=@imdb_fields[@index]["Plot"]%></li>
+            </ul>
+          </div>
+      </div>
+        <%@index +=1%>
+        <%end%>
+        <form action="/score" method="post">
+          <input class="submit_answers" type="submit" value="Submit">
+        </form>
+    </div>
+    <div class="answer_accordion">
+      <%@index=0%>
+      <%@best_movies.each do |movie|%>
+      <div class="answer_accordion_section" data-id="<%= Movie.find_by(title: movie["Title"]).box_office_ranking %>">
+        <h3><%=Movie.find_by(title: movie["Title"]).box_office_ranking%>. <a href='#accordion-2'><%=movie["Title"]%></a><br/><span class="box_office_total">(<b>Metascore Rating:</b> <%=movie["Metascore"]%>)</span></h3>
+          <div class="movie_details_list">
+            <ul class="imdb_info">
+              <li class="movie_details">IMDb Score: <%=movie["imdbRating"]%></li>
+              <li class="movie_details"><b>IMDb Votes:</b> <%=movie["imdbVotes"]%></li>
+              <li class="movie_details"><b>Awards:</b> <%=movie["Awards"]%></li>
+            </ul>
+          </div>
+      </div>
+        <%@index +=1%>
+        <%end%>
+    </div>
+</div>

@@ -1,0 +1,911 @@
+{
+  "1996movies": [
+    {
+      "year": "(1996)",
+      "box_office_total": "$306M",
+      "title": {
+        "text": "Independence Day",
+        "href": "http://www.imdb.com/title/tt0116629/"
+      }
+    },
+    {
+      "year": "(1996)",
+      "box_office_total": "$242M",
+      "title": {
+        "text": "Twister",
+        "href": "http://www.imdb.com/title/tt0117998/"
+      }
+    },
+    {
+      "year": "(1996)",
+      "box_office_total": "$181M",
+      "title": {
+        "text": "Mission: Impossible",
+        "href": "http://www.imdb.com/title/tt0117060/"
+      }
+    },
+    {
+      "year": "(1996)",
+      "box_office_total": "$154M",
+      "title": {
+        "text": "Jerry Maguire",
+        "href": "http://www.imdb.com/title/tt0116695/"
+      }
+    },
+    {
+      "year": "(1996)",
+      "box_office_total": "$136M",
+      "title": {
+        "text": "Ransom",
+        "href": "http://www.imdb.com/title/tt0117438/"
+      }
+    },
+    {
+      "year": "(1996)",
+      "box_office_total": "$136M",
+      "title": {
+        "text": "101 Dalmatians",
+        "href": "http://www.imdb.com/title/tt0115433/"
+      }
+    },
+    {
+      "year": "(1996)",
+      "box_office_total": "$134M",
+      "title": {
+        "text": "The Rock",
+        "href": "http://www.imdb.com/title/tt0117500/"
+      }
+    },
+    {
+      "year": "(1996)",
+      "box_office_total": "$129M",
+      "title": {
+        "text": "The Nutty Professor",
+        "href": "http://www.imdb.com/title/tt0117218/"
+      }
+    },
+    {
+      "year": "(1996)",
+      "box_office_total": "$124M",
+      "title": {
+        "text": "The Birdcage",
+        "href": "http://www.imdb.com/title/tt0115685/"
+      }
+    },
+    {
+      "year": "(1996)",
+      "box_office_total": "$109M",
+      "title": {
+        "text": "A Time to Kill",
+        "href": "http://www.imdb.com/title/tt0117913/"
+      }
+    }],
+
+    "1997movies": [
+    {
+      "title": {
+        "text": "Titanic",
+        "href": "http://www.imdb.com/title/tt0120338/"
+      },
+      "box_office_total": "$659M",
+      "year": "(1997)"
+    },
+    {
+      "title": {
+        "text": "Men in Black",
+        "href": "http://www.imdb.com/title/tt0119654/"
+      },
+      "box_office_total": "$250M",
+      "year": "(1997)"
+    },
+    {
+      "title": {
+        "text": "The Lost World: Jurassic Park",
+        "href": "http://www.imdb.com/title/tt0119567/"
+      },
+      "box_office_total": "$229M",
+      "year": "(1997)"
+    },
+    {
+      "title": {
+        "text": "Liar Liar",
+        "href": "http://www.imdb.com/title/tt0119528/"
+      },
+      "box_office_total": "$181M",
+      "year": "(1997)"
+    },
+    {
+      "title": {
+        "text": "Air Force One",
+        "href": "http://www.imdb.com/title/tt0118571/"
+      },
+      "box_office_total": "$173M",
+      "year": "(1997)"
+    },
+    {
+      "title": {
+        "text": "As Good as It Gets",
+        "href": "http://www.imdb.com/title/tt0119822/"
+      },
+      "box_office_total": "$148M",
+      "year": "(1997)"
+    },
+    {
+      "title": {
+        "text": "Good Will Hunting",
+        "href": "http://www.imdb.com/title/tt0119217/"
+      },
+      "box_office_total": "$138M",
+      "year": "(1997)"
+    },
+    {
+      "title": {
+        "text": "My Best Friend's Wedding",
+        "href": "http://www.imdb.com/title/tt0119738/"
+      },
+      "box_office_total": "$127M",
+      "year": "(1997)"
+    },
+    {
+      "title": {
+        "text": "Tomorrow Never Dies",
+        "href": "http://www.imdb.com/title/tt0120347/"
+      },
+      "box_office_total": "$125M",
+      "year": "(1997)"
+    },
+    {
+      "title": {
+        "text": "Face/Off",
+        "href": "http://www.imdb.com/title/tt0119094/"
+      },
+      "box_office_total": "$112M",
+      "year": "(1997)"
+    }
+  ],
+
+   "1998movies": [
+    {
+      "title": {
+        "text": "Saving Private Ryan",
+        "href": "http://www.imdb.com/title/tt0120815/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$216M"
+    },
+    {
+      "title": {
+        "text": "Armageddon",
+        "href": "http://www.imdb.com/title/tt0120591/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$202M"
+    },
+    {
+      "title": {
+        "text": "There's Something About Mary",
+        "href": "http://www.imdb.com/title/tt0129387/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$176M"
+    },
+    {
+      "title": {
+        "text": "A Bug's Life",
+        "href": "http://www.imdb.com/title/tt0120623/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$163M"
+    },
+    {
+      "title": {
+        "text": "The Waterboy",
+        "href": "http://www.imdb.com/title/tt0120484/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$161M"
+    },
+    {
+      "title": {
+        "text": "Doctor Dolittle",
+        "href": "http://www.imdb.com/title/tt0118998/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$144M"
+    },
+    {
+      "title": {
+        "text": "Rush Hour",
+        "href": "http://www.imdb.com/title/tt0120812/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$141M"
+    },
+    {
+      "title": {
+        "text": "Deep Impact",
+        "href": "http://www.imdb.com/title/tt0120647/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$140M"
+    },
+    {
+      "title": {
+        "text": "Godzilla",
+        "href": "http://www.imdb.com/title/tt0120685/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$136M"
+    },
+    {
+      "title": {
+        "text": "Patch Adams",
+        "href": "http://www.imdb.com/title/tt0129290/"
+      },
+      "year": "(1998)",
+      "box_office_total": "$135M"
+    }],
+
+  "1999movies": [
+    {
+      "title": {
+        "text": "Star Wars: Episode I - The Phantom Menace",
+        "href": "http://www.imdb.com/title/tt0120915/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$475M"
+    },
+    {
+      "title": {
+        "text": "The Sixth Sense",
+        "href": "http://www.imdb.com/title/tt0167404/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$294M"
+    },
+    {
+      "title": {
+        "text": "Toy Story 2",
+        "href": "http://www.imdb.com/title/tt0120363/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$246M"
+    },
+    {
+      "title": {
+        "text": "Austin Powers: The Spy Who Shagged Me",
+        "href": "http://www.imdb.com/title/tt0145660/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$205M"
+    },
+    {
+      "title": {
+        "text": "The Matrix",
+        "href": "http://www.imdb.com/title/tt0133093/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$171M"
+    },
+    {
+      "title": {
+        "text": "Tarzan",
+        "href": "http://www.imdb.com/title/tt0120855/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$171M"
+    },
+    {
+      "title": {
+        "text": "Big Daddy",
+        "href": "http://www.imdb.com/title/tt0142342/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$163M"
+    },
+    {
+      "title": {
+        "text": "The Mummy",
+        "href": "http://www.imdb.com/title/tt0120616/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$155M"
+    },
+    {
+      "title": {
+        "text": "Runaway Bride",
+        "href": "http://www.imdb.com/title/tt0163187/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$152M"
+    },
+    {
+      "title": {
+        "text": "The Blair Witch Project",
+        "href": "http://www.imdb.com/title/tt0185937/"
+      },
+      "year": "(1999)",
+      "box_office_total": "$141M"
+    }
+  ],
+
+"2000movies": [
+    {
+      "title": {
+        "text": "How the Grinch Stole Christmas",
+        "href": "http://www.imdb.com/title/tt0170016/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$260M"
+    },
+    {
+      "title": {
+        "text": "Cast Away",
+        "href": "http://www.imdb.com/title/tt0162222/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$234M"
+    },
+    {
+      "title": {
+        "text": "Mission: Impossible II",
+        "href": "http://www.imdb.com/title/tt0120755/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$215M"
+    },
+    {
+      "title": {
+        "text": "Gladiator",
+        "href": "http://www.imdb.com/title/tt0172495/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$188M"
+    },
+    {
+      "title": {
+        "text": "What Women Want",
+        "href": "http://www.imdb.com/title/tt0207201/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$183M"
+    },
+    {
+      "title": {
+        "text": "The Perfect Storm",
+        "href": "http://www.imdb.com/title/tt0177971/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$183M"
+    },
+    {
+      "title": {
+        "text": "Meet the Parents",
+        "href": "http://www.imdb.com/title/tt0212338/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$166M"
+    },
+    {
+      "title": {
+        "text": "X-Men",
+        "href": "http://www.imdb.com/title/tt0120903/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$157M"
+    },
+    {
+      "title": {
+        "text": "Scary Movie",
+        "href": "http://www.imdb.com/title/tt0175142/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$157M"
+    },
+    {
+      "title": {
+        "text": "What Lies Beneath",
+        "href": "http://www.imdb.com/title/tt0161081/"
+      },
+      "year": "(2000)",
+      "box_office_total": "$155M"
+    }
+  ],
+
+"2001movies": [
+    {
+      "title": {
+        "text": "Harry Potter and the Sorcerer's Stone",
+        "href": "http://www.imdb.com/title/tt0241527/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$318M"
+    },
+    {
+      "title": {
+        "text": "The Lord of the Rings: The Fellowship of the Ring",
+        "href": "http://www.imdb.com/title/tt0120737/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$314M"
+    },
+    {
+      "title": {
+        "text": "Monsters, Inc.",
+        "href": "http://www.imdb.com/title/tt0198781/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$290M"
+    },
+    {
+      "title": {
+        "text": "Shrek",
+        "href": "http://www.imdb.com/title/tt0126029/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$268M"
+    },
+    {
+      "title": {
+        "text": "Rush Hour 2",
+        "href": "http://www.imdb.com/title/tt0266915/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$226M"
+    },
+    {
+      "title": {
+        "text": "The Mummy Returns",
+        "href": "http://www.imdb.com/title/tt0209163/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$202M"
+    },
+    {
+      "title": {
+        "text": "Pearl Harbor",
+        "href": "http://www.imdb.com/title/tt0213149/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$199M"
+    },
+    {
+      "title": {
+        "text": "Ocean's Eleven",
+        "href": "http://www.imdb.com/title/tt0240772/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$183M"
+    },
+    {
+      "title": {
+        "text": "Jurassic Park III",
+        "href": "http://www.imdb.com/title/tt0163025/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$181M"
+    },
+    {
+      "title": {
+        "text": "Planet of the Apes",
+        "href": "http://www.imdb.com/title/tt0133152/"
+      },
+      "year": "(2001)",
+      "box_office_total": "$180M"
+    }
+  ],
+
+"2002movies": [
+    {
+      "title": {
+        "text": "Spider-Man",
+        "href": "http://www.imdb.com/title/tt0145487/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$404M"
+    },
+    {
+      "title": {
+        "text": "The Lord of the Rings: The Two Towers",
+        "href": "http://www.imdb.com/title/tt0167261/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$340M"
+    },
+    {
+      "title": {
+        "text": "Star Wars: Episode II - Attack of the Clones",
+        "href": "http://www.imdb.com/title/tt0121765/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$311M"
+    },
+    {
+      "title": {
+        "text": "Harry Potter and the Chamber of Secrets",
+        "href": "http://www.imdb.com/title/tt0295297/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$262M"
+    },
+    {
+      "title": {
+        "text": "My Big Fat Greek Wedding",
+        "href": "http://www.imdb.com/title/tt0259446/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$241M"
+    },
+    {
+      "title": {
+        "text": "Signs",
+        "href": "http://www.imdb.com/title/tt0286106/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$228M"
+    },
+    {
+      "title": {
+        "text": "Austin Powers in Goldmember",
+        "href": "http://www.imdb.com/title/tt0295178/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$213M"
+    },
+    {
+      "title": {
+        "text": "Men in Black II",
+        "href": "http://www.imdb.com/title/tt0120912/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$190M"
+    },
+    {
+      "title": {
+        "text": "Ice Age",
+        "href": "http://www.imdb.com/title/tt0268380/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$176M"
+    },
+    {
+      "title": {
+        "text": "Chicago",
+        "href": "http://www.imdb.com/title/tt0299658/"
+      },
+      "year": "(2002)",
+      "box_office_total": "$171M"
+    }
+  ],
+
+    "2003movies": [
+    {
+      "title": {
+        "text": "Finding Nemo",
+        "href": "http://www.imdb.com/title/tt0266543/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$381M"
+    },
+    {
+      "title": {
+        "text": "The Lord of the Rings: The Return of the King",
+        "href": "http://www.imdb.com/title/tt0167260/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$377M"
+    },
+    {
+      "title": {
+        "text": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "href": "http://www.imdb.com/title/tt0325980/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$305M"
+    },
+    {
+      "title": {
+        "text": "The Matrix Reloaded",
+        "href": "http://www.imdb.com/title/tt0234215/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$281M"
+    },
+    {
+      "title": {
+        "text": "Bruce Almighty",
+        "href": "http://www.imdb.com/title/tt0315327/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$243M"
+    },
+    {
+      "title": {
+        "text": "X2",
+        "href": "http://www.imdb.com/title/tt0290334/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$215M"
+    },
+    {
+      "title": {
+        "text": "Elf",
+        "href": "http://www.imdb.com/title/tt0319343/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$173M"
+    },
+    {
+      "title": {
+        "text": "Terminator 3: Rise of the Machines",
+        "href": "http://www.imdb.com/title/tt0181852/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$150M"
+    },
+    {
+      "title": {
+        "text": "The Matrix Revolutions",
+        "href": "http://www.imdb.com/title/tt0242653/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$139M"
+    },
+    {
+      "title": {
+        "text": "Cheaper by the Dozen",
+        "href": "http://www.imdb.com/title/tt0349205/"
+      },
+      "year": "(2003)",
+      "box_office_total": "$139M"
+    }
+  ],
+
+"2004movies": [
+    {
+      "title": {
+        "text": "Shrek 2",
+        "href": "http://www.imdb.com/title/tt0298148/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$436M"
+    },
+    {
+      "title": {
+        "text": "Spider-Man 2",
+        "href": "http://www.imdb.com/title/tt0316654/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$373M"
+    },
+    {
+      "title": {
+        "text": "Meet the Fockers",
+        "href": "http://www.imdb.com/title/tt0290002/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$279M"
+    },
+    {
+      "title": {
+        "text": "The Incredibles",
+        "href": "http://www.imdb.com/title/tt0317705/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$261M"
+    },
+    {
+      "title": {
+        "text": "Harry Potter and the Prisoner of Azkaban",
+        "href": "http://www.imdb.com/title/tt0304141/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$249M"
+    },
+    {
+      "title": {
+        "text": "The Day After Tomorrow",
+        "href": "http://www.imdb.com/title/tt0319262/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$187M"
+    },
+    {
+      "title": {
+        "text": "The Bourne Supremacy",
+        "href": "http://www.imdb.com/title/tt0372183/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$176M"
+    },
+    {
+      "title": {
+        "text": "National Treasure",
+        "href": "http://www.imdb.com/title/tt0368891/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$173M"
+    },
+    {
+      "title": {
+        "text": "Shark Tale",
+        "href": "http://www.imdb.com/title/tt0307453/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$161M"
+    },
+    {
+      "title": {
+        "text": "I, Robot",
+        "href": "http://www.imdb.com/title/tt0343818/"
+      },
+      "year": "(2004)",
+      "box_office_total": "$145M"
+    }
+  ],
+"2005movies": [
+    {
+      "title": {
+        "text": "Star Wars: Episode III - Revenge of the Sith",
+        "href": "http://www.imdb.com/title/tt0121766/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$380M"
+    },
+    {
+      "title": {
+        "text": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "href": "http://www.imdb.com/title/tt0363771/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$292M"
+    },
+    {
+      "title": {
+        "text": "Harry Potter and the Goblet of Fire",
+        "href": "http://www.imdb.com/title/tt0330373/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$290M"
+    },
+    {
+      "title": {
+        "text": "War of the Worlds",
+        "href": "http://www.imdb.com/title/tt0407304/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$234M"
+    },
+    {
+      "title": {
+        "text": "King Kong",
+        "href": "http://www.imdb.com/title/tt0360717/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$218M"
+    },
+    {
+      "title": {
+        "text": "Wedding Crashers",
+        "href": "http://www.imdb.com/title/tt0396269/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$209M"
+    },
+    {
+      "title": {
+        "text": "Charlie and the Chocolate Factory",
+        "href": "http://www.imdb.com/title/tt0367594/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$206M"
+    },
+    {
+      "title": {
+        "text": "Batman Begins",
+        "href": "http://www.imdb.com/title/tt0372784/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$205M"
+    },
+    {
+      "title": {
+        "text": "Madagascar",
+        "href": "http://www.imdb.com/title/tt0351283/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$193M"
+    },
+    {
+      "title": {
+        "text": "Mr. & Mrs. Smith",
+        "href": "http://www.imdb.com/title/tt0356910/"
+      },
+      "year": "(2005)",
+      "box_office_total": "$186M"
+    }
+  ],
+    "1996_2005movies": [
+    {
+      "title": {
+        "text": "Titanic",
+        "href": "http://www.imdb.com/title/tt0120338/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$659M"
+    },
+    {
+      "title": {
+        "text": "Star Wars: Episode I - The Phantom Menace",
+        "href": "http://www.imdb.com/title/tt0120915/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$475M"
+    },
+    {
+      "title": {
+        "text": "Shrek 2",
+        "href": "http://www.imdb.com/title/tt0298148/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$436M"
+    },
+    {
+      "title": {
+        "text": "Spider-Man",
+        "href": "http://www.imdb.com/title/tt0145487/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$404M"
+    },
+    {
+      "title": {
+        "text": "Finding Nemo",
+        "href": "http://www.imdb.com/title/tt0266543/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$381M"
+    },
+    {
+      "title": {
+        "text": "Star Wars: Episode III - Revenge of the Sith",
+        "href": "http://www.imdb.com/title/tt0121766/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$380M"
+    },
+    {
+      "title": {
+        "text": "The Lord of the Rings: The Return of the King",
+        "href": "http://www.imdb.com/title/tt0167260/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$377M"
+    },
+    {
+      "title": {
+        "text": "Spider-Man 2",
+        "href": "http://www.imdb.com/title/tt0316654/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$373M"
+    },
+    {
+      "title": {
+        "text": "The Lord of the Rings: The Two Towers",
+        "href": "http://www.imdb.com/title/tt0167261/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$340M"
+    },
+    {
+      "title": {
+        "text": "Harry Potter and the Sorcerer's Stone",
+        "href": "http://www.imdb.com/title/tt0241527/"
+      },
+      "year":"(19962005)",
+      "box_office_total": "$318M"
+    }
+   ]
+ }
+}
